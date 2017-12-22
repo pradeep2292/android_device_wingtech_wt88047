@@ -21,8 +21,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/wingtech/wt88047/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := wt88047
-PRODUCT_NAME := full_wt88047
+PRODUCT_DEVICE := gucci
+PRODUCT_NAME := full_gucci
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi 2
-PRODUCT_MANUFACTURER := Wingtech
+PRODUCT_MODEL := Redmi note prime
+PRODUCT_MANUFACTURER := xiaomi
