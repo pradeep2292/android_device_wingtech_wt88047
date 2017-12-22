@@ -1,6 +1,6 @@
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/xiaomi/gucci
-TARGET_KERNEL_CONFIG := cyanogenmod_gucci_defconfig
+TARGET_KERNEL_CONFIG := cyanogenmod_wt88047_defconfig
 
 BOARD_KERNEL_CMDLINE += \
     sched_enable_hmp=1 \
